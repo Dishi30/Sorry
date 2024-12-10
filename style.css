@@ -26,7 +26,13 @@ p {
     color: #555;
     font-size: 1.2em;
 }
-
+.main-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 50%;
+}
 button {
     background-color: #e74c3c;
     color: white;
